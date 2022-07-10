@@ -1,6 +1,6 @@
 # Neural-Network-learning-of-Cosine
 
-The code was written with the Pytorch Deep Learning library.
+The code was entirely written with Pytorch.
 
 We train a Neural Network to learn the Cosine function.
 We generate our data by working on interval [-2 ; 2] that we 
