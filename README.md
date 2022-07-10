@@ -14,7 +14,7 @@ is around 0.6 after 400 epochs.
 We notice that the model performs well on the training data
 but does not generalize well outside.
 
-We show here under the evaluation of the learned model on
+We show here under the curve of the cosine function and the curve of the evaluation of the learned model on
 the interval [-3,3]: we see that on the training set the two
 curve almost exactly agree, but not on the rest.
 
